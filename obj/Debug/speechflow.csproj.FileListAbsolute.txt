@@ -25,3 +25,8 @@
 /Users/irawildalmada/Projects/speechflow/speechflow/obj/Debug/speechflow.csproj.CoreCompileInputs.cache
 /Users/irawildalmada/Projects/speechflow/speechflow/obj/Debug/speechflow.dll
 /Users/irawildalmada/Projects/speechflow/speechflow/obj/Debug/speechflow.pdb
+/Users/irawildalmada/Desktop/speechflow/speechflow/bin/speechflow.dll
+/Users/irawildalmada/Desktop/speechflow/speechflow/bin/speechflow.pdb
+/Users/irawildalmada/Desktop/speechflow/speechflow/obj/Debug/speechflow.csproj.CoreCompileInputs.cache
+/Users/irawildalmada/Desktop/speechflow/speechflow/obj/Debug/speechflow.dll
+/Users/irawildalmada/Desktop/speechflow/speechflow/obj/Debug/speechflow.pdb

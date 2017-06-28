@@ -9,7 +9,7 @@ namespace speechflow.Models
         public decimal valor { get; set; }
         public decimal latitude { get; set; }
         public decimal longitude { get; set; }
-
+        public DateTime createdAt { get; set; }
         public Expense()
         {
             

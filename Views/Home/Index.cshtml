@@ -49,13 +49,22 @@
                 <h2 class="mg-md tc-outer-space">
                     Lista de gastos
                 </h2>
-                <ul class="list-unstyled">
-                @foreach (var gasto in Model)
-								{
-                                <li>@gasto.categoria - @string.Format("{0:C}", gasto.valor)</li>
-								}
-
-							</ul>
+							<div>
+							<table>
+								<th style="min-width:120px;">Categoria</th>
+								<th style="min-width:80px;">Valor</th>
+								<th style="min-width:100px;">Data</th>
+                                @foreach (var gasto in Model)
+								    {
+								        <tr>
+									        <td>@gasto.categoria</td>
+                                            <td>@string.Format("{0:C}", gasto.valor)</td>
+								            <td>@string.Format("{0: dd/MM/yyyy}", gasto.createdAt)</td>
+										</tr>
+								    }
+							</table>
+								</div>
+				
             </div>
         </div>
     </div>
