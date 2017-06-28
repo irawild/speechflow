@@ -116,6 +116,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Fonts\fontawesome-webfont.woff2" />
+    <None Include="global.json" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
