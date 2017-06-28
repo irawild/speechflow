@@ -1,3 +1,4 @@
 /Users/irawildalmada/Desktop/speechflow/speechflow/bin/speechflow.dll
+/Users/irawildalmada/Desktop/speechflow/speechflow/obj/Release/speechflow.csprojResolveAssemblyReference.cache
 /Users/irawildalmada/Desktop/speechflow/speechflow/obj/Release/speechflow.csproj.CoreCompileInputs.cache
 /Users/irawildalmada/Desktop/speechflow/speechflow/obj/Release/speechflow.dll
